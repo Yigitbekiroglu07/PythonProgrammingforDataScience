@@ -205,7 +205,7 @@ The project primarily uses the following technologies:
 
 Clone the repository:
 
-git clone https://github.com/your-username/PythonProgrammingforDataScience.git
+git clone https://github.com/Yigitbekiroglu07/PythonProgrammingforDataScience.git
 
 Navigate to the project folder:
 
